@@ -4,4 +4,4 @@
     yarn run android/ios 
     
 ### Screenshots
-![Screenshot](https://i.ibb.co/BytYSDW/download.jpg)
+![Screenshot](https://i.ibb.co/jWR7GBm/download-1.jpg)
